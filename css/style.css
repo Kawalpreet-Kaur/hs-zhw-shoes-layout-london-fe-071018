@@ -111,7 +111,7 @@ iframe {
 }
 
 .shadow {
-  /*display: inline-block;*/
+  display: inline-block;
   box-shadow: 0 3px 10px #333;
 }
 
