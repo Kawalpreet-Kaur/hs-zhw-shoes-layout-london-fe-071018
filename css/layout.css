@@ -26,10 +26,10 @@
 
 
 .float-right{
-  position: relative;
+  /*position: relative;*/
   width:28%;
-  height: 70%;
-  float: right;
+  /*height: 70%;*/
+  /*float: right;*/
 }
 
 .float-left{
