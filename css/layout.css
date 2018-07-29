@@ -45,6 +45,7 @@
   width:33%;
   display: flex;
   align-content: space-between;
+  margin-top: 2%;
   /*float: right;*/
 }
 
