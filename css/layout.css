@@ -44,7 +44,7 @@
   /*position: relative;*/
   width:33%;
   display: flex;
-  align-content: 
+  align-content: space-between;
   /*float: right;*/
 }
 
