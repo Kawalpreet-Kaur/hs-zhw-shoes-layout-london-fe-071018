@@ -33,6 +33,7 @@
 
 .float-left{
    position: relative;
-  width: 75%;
+  width: 70%;
+  height:auto;
 float:left;
 }
