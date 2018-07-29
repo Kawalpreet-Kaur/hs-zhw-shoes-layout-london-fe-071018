@@ -34,7 +34,8 @@
 }
 
 .float-left{
-   position: relative;
+   /*position: relative;*/
+   display: inline-block;
   width: 70%;
   height: 70%;
 float:left;
