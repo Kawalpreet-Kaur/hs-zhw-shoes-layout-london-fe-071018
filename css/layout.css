@@ -32,11 +32,7 @@
 }
 
 .float-left{
-  
+   position: relative;
+  right: -200px;
 float:left;
-}
-
-.p
-{
-  float: none;
 }
