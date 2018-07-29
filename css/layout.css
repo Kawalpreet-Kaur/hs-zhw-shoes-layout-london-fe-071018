@@ -43,9 +43,7 @@
 .last-row{
   /*position: relative;*/
   width:33%;
-  height: 100%;
-  padding: 2%;
-  border: 2%;
+  margin: 5%;
   /*float: right;*/
 }
 
