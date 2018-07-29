@@ -26,7 +26,7 @@
 
 
 .float-right{
-  /*position: relative;*/
+  position: relative;
   /*right: -200px;*/
   float: right;
 }
