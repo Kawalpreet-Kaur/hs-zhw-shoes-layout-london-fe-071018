@@ -40,5 +40,12 @@
 /*float:left;*/
 }
 
+.last-row{
+  /*position: relative;*/
+  width:28%;
+  height: 100%;
+  /*float: right;*/
+}
+
 
 
